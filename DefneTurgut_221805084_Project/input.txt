@@ -1,0 +1,4 @@
+Salaried Employee,Defne,Turğut,1,45000,45000.0
+Hourly Employee,Hatice,Kandemir,2,100,20,2000.0
+Base Plus Commission Employee,Muhittin,Özdemir,3,50000,0.2,30000,40000
+Hourly Employee,dcfg,frgt,4,45,45,2137.5
